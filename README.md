@@ -1,3 +1,3 @@
 # Project_work
-This is my first GIT repository.
-/nAuthor - Saurabh Khartad
+This is my first GIT repository.<br>
+Author - Saurabh Khartad
